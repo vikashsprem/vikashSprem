@@ -3,9 +3,9 @@
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2136630/screenshots/4389878/adopti_video_2.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikashSprem&label=Profile%20views&color=0e75b6&style=flat" alt="vikashSprem" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikashsprem&label=Profile%20views&color=0e75b6&style=flat" alt="vikashsprem" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@vikqshr" target="blank"><img src="https://img.shields.io/twitter/follow/@vikqshr?logo=twitter&style=for-the-badge" alt="@vikqshr" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@vikashsprem" target="blank"><img src="https://img.shields.io/twitter/follow/@vikashsprem?logo=twitter&style=for-the-badge" alt="@vikashsprem" /></a> </p>
 
 - 🔭 I’m currently working on **an Educational_Software**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@vikqshr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vikqshr" height="30" width="40" /></a>
+<a href="https://twitter.com/@vikashsprem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vikashsprem" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vikash-prem-sharma-008925223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikash-prem-sharma-008925223" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vikashprem321" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vikashprem321" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vikashprem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vikashprem" height="30" width="40" /></a>
